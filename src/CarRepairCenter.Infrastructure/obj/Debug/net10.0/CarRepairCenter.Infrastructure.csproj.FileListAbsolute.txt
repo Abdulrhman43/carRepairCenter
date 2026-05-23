@@ -1,0 +1,17 @@
+D:\Car Repair Center\src\CarRepairCenter.Infrastructure\bin\Debug\net10.0\CarRepairCenter.Infrastructure.deps.json
+D:\Car Repair Center\src\CarRepairCenter.Infrastructure\bin\Debug\net10.0\CarRepairCenter.Infrastructure.runtimeconfig.json
+D:\Car Repair Center\src\CarRepairCenter.Infrastructure\bin\Debug\net10.0\CarRepairCenter.Infrastructure.dll
+D:\Car Repair Center\src\CarRepairCenter.Infrastructure\bin\Debug\net10.0\CarRepairCenter.Infrastructure.pdb
+D:\Car Repair Center\src\CarRepairCenter.Infrastructure\bin\Debug\net10.0\CarRepairCenter.Core.dll
+D:\Car Repair Center\src\CarRepairCenter.Infrastructure\bin\Debug\net10.0\CarRepairCenter.Core.pdb
+D:\Car Repair Center\src\CarRepairCenter.Infrastructure\obj\Debug\net10.0\CarRepairCenter.Infrastructure.csproj.AssemblyReference.cache
+D:\Car Repair Center\src\CarRepairCenter.Infrastructure\obj\Debug\net10.0\CarRepairCenter.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Car Repair Center\src\CarRepairCenter.Infrastructure\obj\Debug\net10.0\CarRepairCenter.Infrastructure.AssemblyInfoInputs.cache
+D:\Car Repair Center\src\CarRepairCenter.Infrastructure\obj\Debug\net10.0\CarRepairCenter.Infrastructure.AssemblyInfo.cs
+D:\Car Repair Center\src\CarRepairCenter.Infrastructure\obj\Debug\net10.0\CarRepairCenter.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Car Repair Center\src\CarRepairCenter.Infrastructure\obj\Debug\net10.0\CarRepai.D2C5F458.Up2Date
+D:\Car Repair Center\src\CarRepairCenter.Infrastructure\obj\Debug\net10.0\CarRepairCenter.Infrastructure.dll
+D:\Car Repair Center\src\CarRepairCenter.Infrastructure\obj\Debug\net10.0\refint\CarRepairCenter.Infrastructure.dll
+D:\Car Repair Center\src\CarRepairCenter.Infrastructure\obj\Debug\net10.0\CarRepairCenter.Infrastructure.pdb
+D:\Car Repair Center\src\CarRepairCenter.Infrastructure\obj\Debug\net10.0\CarRepairCenter.Infrastructure.genruntimeconfig.cache
+D:\Car Repair Center\src\CarRepairCenter.Infrastructure\obj\Debug\net10.0\ref\CarRepairCenter.Infrastructure.dll

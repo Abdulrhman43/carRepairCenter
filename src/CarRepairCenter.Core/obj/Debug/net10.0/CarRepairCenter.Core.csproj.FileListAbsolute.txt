@@ -1,0 +1,11 @@
+D:\Car Repair Center\src\CarRepairCenter.Core\obj\Debug\net10.0\CarRepairCenter.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Car Repair Center\src\CarRepairCenter.Core\obj\Debug\net10.0\CarRepairCenter.Core.AssemblyInfoInputs.cache
+D:\Car Repair Center\src\CarRepairCenter.Core\obj\Debug\net10.0\CarRepairCenter.Core.AssemblyInfo.cs
+D:\Car Repair Center\src\CarRepairCenter.Core\obj\Debug\net10.0\CarRepairCenter.Core.csproj.CoreCompileInputs.cache
+D:\Car Repair Center\src\CarRepairCenter.Core\bin\Debug\net10.0\CarRepairCenter.Core.deps.json
+D:\Car Repair Center\src\CarRepairCenter.Core\bin\Debug\net10.0\CarRepairCenter.Core.dll
+D:\Car Repair Center\src\CarRepairCenter.Core\bin\Debug\net10.0\CarRepairCenter.Core.pdb
+D:\Car Repair Center\src\CarRepairCenter.Core\obj\Debug\net10.0\CarRepairCenter.Core.dll
+D:\Car Repair Center\src\CarRepairCenter.Core\obj\Debug\net10.0\refint\CarRepairCenter.Core.dll
+D:\Car Repair Center\src\CarRepairCenter.Core\obj\Debug\net10.0\CarRepairCenter.Core.pdb
+D:\Car Repair Center\src\CarRepairCenter.Core\obj\Debug\net10.0\ref\CarRepairCenter.Core.dll
